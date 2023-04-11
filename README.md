@@ -1,10 +1,6 @@
 # Proyecto **Javascript** Rolling Code 
 
-![Javascript](./img/JavaScript-logo.png)
-
-En este repositorio encontraran la practica hecha con Javascript del curso de **Rolling Code School** correspondiente a la **Quinta parte practica**. Son libres de ver y clonar el repositorio para aprender junto a nosotros.
-
-En este primer punto se ha creado un juego de numeros magicos donde el usuario debera adivinar el numero en cuestion. Diviertanse!!!
+En este repositorio encontraran una pagina que utiliza DOM y BOM y tiene la posibilidad de administrar peliculas, sacando o agregando.
 
 >## Integrante del proyecto
 - Navarro Leandro [GitHub](https://github.com/NavarroLeandro)
